@@ -9,9 +9,10 @@
 ## Overview
 This is a **simple blockchain-based voting application** that demonstrates the integration of blockchain technology into a traditional voting process. The app leverages **Web3.js**, **Express.js**, **React**, **Chakra UI**, and **Solidity** to create a decentralized voting platform. 
 
-The application mocks the **2024 US presidential election**, featuring candidates such as **Donald Trump** and **Kamala Harris**, but is **purely a technical demonstration**. This project is **not a political statement** and is meant to showcase blockchain-based voting technology.
+The application mocks the **2024 US presidential election**, featuring candidates such as **Donald Trump** and **Kamala Harris**, but is **purely a technical demonstration**. This project is **not a political statement** and is meant to showcase blockchain-based voting technology. 
 
 This project was developed as part of my Blockchain class at CSUS, with my team members. The original repository and contributors are here: https://github.com/Lildel81/Blockchain196.
+
 ---
 
 ## Features
