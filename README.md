@@ -42,7 +42,6 @@ This project was developed as part of my Blockchain class at CSUS, with my team 
 
 ### Prerequisites
 - Node.js v18+ 
-- MetaMask browser extension
 - Ganache or access to an Ethereum test network (e.g., Sepolia, Goerli)
 
 ### Setup
