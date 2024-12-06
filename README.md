@@ -48,7 +48,7 @@ This project was developed as part of my Blockchain class at CSUS, with my team 
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/BenEklundCS/Web3VotingSystem/](https://github.com/BenEklundCS/Web3VotingSystem/)
+    git clone https://github.com/BenEklundCS/Web3VotingSystem/
     cd Web3VotingSystem
     ```
 
